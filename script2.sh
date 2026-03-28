@@ -1,8 +1,14 @@
 #!/bin/bash
-if command -v git &> /dev/null
+
+# Check if Git is installed on the system
+
+if command -v git &> /dev/null   # Check if git command exists
 then
-echo "GIT is installed"
-dpkg -s git | grep -E "Version|Maintainer|Description"
+    echo "GIT is installed"
+
+    # Show package details (version, maintainer, description)
+    dpkg -s git | grep -E "Version|Maintainer|Description"
 else
-echo "GIT not installed"
+    # If git is not installed
+    echo "GIT not installed"
 fi
