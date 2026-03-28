@@ -1,5 +1,5 @@
 # oss-audit-24BAI10408
-# Student Dteails
+# Student Details
 Name: Kushagra Singh <br>
 Reg.No: 24BAI10408
 # Chosen Software
