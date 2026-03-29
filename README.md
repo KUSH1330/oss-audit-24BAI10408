@@ -4,7 +4,8 @@ Name: Kushagra Singh <br>
 Reg.No: 24BAI10408
 # Chosen Software
 Git
-
+### Description
+This project is based on learning and using Git as part of my open-source journey. It reflects how Git helps track changes, manage versions, and collaborate efficiently on code. Through this repository, I explored basic Git operations like commits, branching, and version control in a practical way.
 # Scripts Overview
 
 ###  Script 1 — System Information
@@ -70,11 +71,11 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 #### 2. Execute Script
 
-./script1.sh
-./script2.sh
-./script3.sh
-./script4.sh /var/log/syslog error
-./script5.sh
+./script1.sh <br>
+./script2.sh <br>
+./script3.sh <br>
+./script4.sh /var/log/syslog error<br>
+./script5.sh <br>
 
 
 
