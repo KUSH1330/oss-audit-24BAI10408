@@ -60,19 +60,21 @@ Generates a personalized manifesto based on user input.
 * Git 
 
 
-
 ###  Run the Scripts
 
 #### 1. Give Execute Permission
 
 
-chmod +x scriptname.sh
+chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 
 #### 2. Execute Script
 
-
-./scriptname.sh
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh /var/log/syslog error
+./script5.sh
 
 
 
